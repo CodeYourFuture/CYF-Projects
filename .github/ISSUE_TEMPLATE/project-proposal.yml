@@ -1,0 +1,52 @@
+name: Project proposal
+description: Propose a project for Launch or Portfolio teams to tackle
+title: "[Team Project] <title>"
+labels: [Tech Ed, Project]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to propose this project!
+        Useful projects are:
+        - deliverable within 4 weeks by a team of 2-4 juniors with minimal Tech Lead support
+        - interesting and useful, not just a TODO list or weather app
+        - demonstrate skills with WebDev, Cloud/DevOps, DevEx, basic Machine Learning, Data Engineering
+        Projects cannot be accepted without:
+        - a terrible pun
+  - type: textarea
+    attributes:
+      label: Business problem
+      description: Clearly explain the problem this project must solve
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Proposed functionality and conditions
+      description: Explain what core things the software must do
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Users and roles
+      description: Define some starting user stories
+      placeholder: As a [who], I can [what] so that [why]
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Stretch goals
+      description: Any stretch goals you would like to see implemented after core
+      placeholder: |
+        Remember that core must be delivered before stretch is planned
+  - type: textarea
+    attributes:
+      label: Things to consider
+      description: Any notes, links, and supporting documents
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you so much.**
+
+        Optionally, now open this project as a PR to this repo.
