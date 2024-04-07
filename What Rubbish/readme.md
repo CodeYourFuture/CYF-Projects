@@ -1,7 +1,7 @@
 # What Rubbish
 
 [THIS VERY CHALLENGING FRONT END PROJECT COULD INVOLVE SOME PYTHON AND A
-LOT OF LEARNING]{.mark}
+LOT OF LEARNING]
 
 ## Business problem
 
@@ -25,19 +25,17 @@ What is the **simplest** thing that could possibly work?
 
   - _MobileNetV2 model for complex items_
 
-- Waste categorisation - Classify items as recyclable, compostable, or
-  landfill
+- Waste categorisation - Classify items as recyclable, compostable, or landfill
 
 - Application built as a PWA
 
 ## Users and roles
 
-**As a conscientious environmentalist,** I want to quickly sort my
-rubbish wherever I am
+**As a conscientious environmentalist,** I want to quickly sort my rubbish wherever I am
 
 **As a CYF host** I want my offices to be cleaned up after classes
 
-**As a CYF member,** I want to clean up after class
+**As a CYF member** I want to clean up after class
 
 ## Stretch goals
 
@@ -61,15 +59,11 @@ rubbish wherever I am
 
 - The computer vision logic can run entirely on the client-side
 
-```{=html}
-<!-- -->
-```
-
 - [OpenCV directly in the browser (webassembly +
   webworker)](https://aralroca.com/blog/opencv-in-the-web)
 
-- [Adding TensorFlow.js WASM Backend in Create React App \| by Gant
-  Laborde \| Red
+- [Adding TensorFlow.js WASM Backend in Create React App | by Gant
+  Laborde | Red
   Shift](https://shift.infinite.red/adding-tensorflow-js-wasm-backend-in-create-react-app-f57f5baab736)
 
 - [https://github.com/reshamas/deploying-web-app](https://github.com/reshamas/deploying-web-app)
@@ -80,10 +74,8 @@ rubbish wherever I am
 - [Image Model - Teachable
   Machines](https://teachablemachine.withgoogle.com/train/image)
 
-- [How to build an image classifier for waste sorting \| by Collin
-  Ching \| Towards Data
-  Science](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478)
+- [How to build an image classifier for waste sorting | by Collin Ching | Towards Data Science](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478)
 
-There\'s an API-focused briefing for the same business problem here:
+There's an API-focused briefing for the same business problem here:
 [Final Project: How Does It Work
 Here](https://docs.google.com/document/d/1TEyKxGvPt0mBZUeIjipTxd4TpQe_Wfz5etiWsv0QTdc/edit?usp=sharing)
