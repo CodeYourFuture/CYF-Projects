@@ -143,10 +143,10 @@ src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Shared%20Bookmarks
 time=0
 name="Slack dashboard"
 src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Slack%20dashboard"
-# [[blocks]]
-# time=0
-# name="Space Aliens"
-# src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Space%20Aliens"
+[[blocks]]
+time=0
+name="Space Aliens"
+src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Space%20Aliens"
 [[blocks]]
 time=0
 name="Study Buddies"
@@ -171,8 +171,8 @@ src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Volunteer%20Schedu
 time=0
 name="We are here"
 src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/We%20are%20here"
-# [[blocks]]
-# time=0
-# name="What Rubbish"
-# src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/What%20Rubbish/"
+[[blocks]]
+time=0
+name="What Rubbish"
+src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/What%20Rubbish/"
 +++
