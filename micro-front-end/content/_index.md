@@ -21,6 +21,10 @@ name="Avanart"
 src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Avanart"
 [[blocks]]
 time=0
+name="Badger Badger"
+src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Badger%20Badger"
+[[blocks]]
+time=0
 name="Careless Whisper"
 src="https://github.com/CodeYourFuture/CYF-Projects/tree/main/Careless%20Whisper"
 [[blocks]]
