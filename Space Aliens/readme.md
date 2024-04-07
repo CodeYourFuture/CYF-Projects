@@ -1,6 +1,6 @@
 # SpaCy Aliens
 
-[THIS PROJECT COULD INVOLVE SOME PYTHON]{.mark}
+**THIS PROJECT COULD INVOLVE SOME PYTHON**
 
 ## Business problem
 
@@ -77,20 +77,14 @@ to practice English
 
 - Look at Tip of Our Tongues for ideas from a related project
 
-```{=html}
-<!-- -->
-```
 
-- [[Chat GPT Prompts for Technical English
-  Conversation]{.underline}](https://docs.google.com/document/d/1S2DETXKbG_iQXLHxWCBD2wl2fgzd1t9knGlm-qziLXQ/edit?usp=sharing)
+- [Chat GPT Prompts for Technical English
+  Conversation](https://docs.google.com/document/d/1S2DETXKbG_iQXLHxWCBD2wl2fgzd1t9knGlm-qziLXQ/edit?usp=sharing)
 
-- [[Final Project:
-  TOOT]{.underline}](https://docs.google.com/document/d/1uhFzu31xJkh0p5OdPbxU7jrGhlzT_ZbKFPKF8S9s1cY/edit)
+- [Conversational · spaCy
+  Universe](https://spacy.io/universe/category/conversational)
 
-- [[Conversational · spaCy
-  Universe]{.underline}](https://spacy.io/universe/category/conversational)
+- [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 
-- [[Flask]{.underline}](https://flask.palletsprojects.com/en/2.3.x/)
-
-- [[spacy-wasm · spaCy
-  Universe]{.underline}](https://spacy.io/universe/project/spacy-wasm)
+- [spacy-wasm · spaCy
+  Universe](https://spacy.io/universe/project/spacy-wasm)
