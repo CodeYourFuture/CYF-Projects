@@ -89,8 +89,8 @@ tracking?
 
 There is already a spreadsheet that tracks this data, and it shows one
 way to pull the data you need from GitHub. Can you use this to help you?
-[[\[TEMPLATE\] Final Project -
-Tracker]{.underline}](https://docs.google.com/spreadsheets/d/16vSSJgzCZJKF-2pwuBTkKjJJJ9i1CGRqMbYB-HEO5mo/edit?usp=sharing).
+[\[TEMPLATE\] Final Project -
+Tracker](https://docs.google.com/spreadsheets/d/16vSSJgzCZJKF-2pwuBTkKjJJJ9i1CGRqMbYB-HEO5mo/edit?usp=sharing).
 The code is in the attached App Script.
 
 Additional APIs and services to explore:

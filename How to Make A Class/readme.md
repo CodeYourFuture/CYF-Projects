@@ -63,30 +63,30 @@ in forming a new class in an engaging way.
 
 > Can you integrate Lighthouse testing into your deployment workflow?
 > Who will define the Github action? How will you decide what
-> [[budget]{.underline}](https://web.dev/use-lighthouse-for-performance-budgets/)
+> [budget](https://web.dev/use-lighthouse-for-performance-budgets/)
 > to set?
 
 ### Things to consider:
 
 How can the Change Board help you?
-[[https://github.com/CodeYourFuture/Changes]{.underline}](https://github.com/CodeYourFuture/Changes)
+[https://github.com/CodeYourFuture/Changes](https://github.com/CodeYourFuture/Changes)
 
 How can the Programme Team help you?
-[[https://github.com/CodeYourFuture/Programme]{.underline}](https://github.com/CodeYourFuture/Programme)
+[https://github.com/CodeYourFuture/Programme](https://github.com/CodeYourFuture/Programme)
 
 This is a serious interface challenge. Get as much help as you can from
 UX and FE mentors.
 
 More details:\
 \
-[[When to launch ITD \> Fundamentals \>
-SDC]{.underline}](https://docs.google.com/document/d/1KuWZUrL8C7sqyPq5VDiS1TplkFjbF9RHzJrM-0sHOGU/edit?usp=sharing)
+[When to launch ITD \> Fundamentals \>
+SDC](https://docs.google.com/document/d/1KuWZUrL8C7sqyPq5VDiS1TplkFjbF9RHzJrM-0sHOGU/edit?usp=sharing)
 
-[[CYF Guide - Launching a
-cohort]{.underline}](https://docs.google.com/document/d/1vwKuyAslQwWH4DOtfqa20baFili0cupor3LRES6XPgI/edit?usp=sharing)
+[CYF Guide - Launching a
+cohort](https://docs.google.com/document/d/1vwKuyAslQwWH4DOtfqa20baFili0cupor3LRES6XPgI/edit?usp=sharing)
 
-[[Understanding Scale at
-CYF]{.underline}](https://docs.google.com/document/d/1uFl8IadzispLdnlEQ8BOONVGBtDO1U51Izg6Y28M8Ug/edit?usp=sharing)
+[Understanding Scale at
+CYF](https://docs.google.com/document/d/1uFl8IadzispLdnlEQ8BOONVGBtDO1U51Izg6Y28M8Ug/edit?usp=sharing)
 
 ---\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 

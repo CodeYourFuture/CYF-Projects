@@ -77,17 +77,17 @@ Integrating with APIs like DataMuse, Wordnik, and Web Speech API
 requires understanding their features and limitations. How can you check
 the suggestions provided by these APIs are accurate and relevant?
 
-[[https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance]{.underline}](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
+[https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 
-[[https://www.datamuse.com/api/]{.underline}](https://www.datamuse.com/api/)
+[https://www.datamuse.com/api/](https://www.datamuse.com/api/)
 
-[[https://developer.wordnik.com/gettingstarted]{.underline}](https://developer.wordnik.com/gettingstarted)
+[https://developer.wordnik.com/gettingstarted](https://developer.wordnik.com/gettingstarted)
 
-[[https://developer.grammarly.com/docs/api/editor-sdk-react/]{.underline}](https://developer.grammarly.com/docs/api/editor-sdk-react/)
+[https://developer.grammarly.com/docs/api/editor-sdk-react/](https://developer.grammarly.com/docs/api/editor-sdk-react/)
 
 **Important Note to Developers:** This project could be highly
-challenging or could be a fairly simple [[React
-component]{.underline}](https://developer.grammarly.com/docs/api/editor-sdk-react/)
+challenging or could be a fairly simple [React
+component](https://developer.grammarly.com/docs/api/editor-sdk-react/)
 . The real skill here is to **start with the simplest thing that could
 possibly work**.
 

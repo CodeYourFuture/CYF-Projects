@@ -45,8 +45,8 @@ rubbish wherever I am
 
 - Cloud: Define GitHub actions and set budgets for Lighthouse scores
 
-- Data: enhance advice with the [[Waste Services
-  API]{.underline}](https://communitiesuk.github.io/waste-service-standards/apis/waste_services.html)
+- Data: enhance advice with the [Waste Services
+  API](https://communitiesuk.github.io/waste-service-standards/apis/waste_services.html)
 
 ## Things to consider:
 
@@ -65,25 +65,25 @@ rubbish wherever I am
 <!-- -->
 ```
 
-- [[OpenCV directly in the browser (webassembly +
-  webworker)]{.underline}](https://aralroca.com/blog/opencv-in-the-web)
+- [OpenCV directly in the browser (webassembly +
+  webworker)](https://aralroca.com/blog/opencv-in-the-web)
 
-- [[Adding TensorFlow.js WASM Backend in Create React App \| by Gant
+- [Adding TensorFlow.js WASM Backend in Create React App \| by Gant
   Laborde \| Red
-  Shift]{.underline}](https://shift.infinite.red/adding-tensorflow-js-wasm-backend-in-create-react-app-f57f5baab736)
+  Shift](https://shift.infinite.red/adding-tensorflow-js-wasm-backend-in-create-react-app-f57f5baab736)
 
-- [[https://github.com/reshamas/deploying-web-app]{.underline}](https://github.com/reshamas/deploying-web-app)
+- [https://github.com/reshamas/deploying-web-app](https://github.com/reshamas/deploying-web-app)
 
-- [[Deploying a Deep Learning Model on Web and Mobile
-  Applications]{.underline}](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications)
+- [Deploying a Deep Learning Model on Web and Mobile
+  Applications](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications)
 
-- [[Image Model - Teachable
-  Machines]{.underline}](https://teachablemachine.withgoogle.com/train/image)
+- [Image Model - Teachable
+  Machines](https://teachablemachine.withgoogle.com/train/image)
 
-- [[How to build an image classifier for waste sorting \| by Collin
+- [How to build an image classifier for waste sorting \| by Collin
   Ching \| Towards Data
-  Science]{.underline}](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478)
+  Science](https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478)
 
 There\'s an API-focused briefing for the same business problem here:
-[[Final Project: How Does It Work
-Here]{.underline}](https://docs.google.com/document/d/1TEyKxGvPt0mBZUeIjipTxd4TpQe_Wfz5etiWsv0QTdc/edit?usp=sharing)
+[Final Project: How Does It Work
+Here](https://docs.google.com/document/d/1TEyKxGvPt0mBZUeIjipTxd4TpQe_Wfz5etiWsv0QTdc/edit?usp=sharing)

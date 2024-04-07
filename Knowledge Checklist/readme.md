@@ -52,7 +52,7 @@ in a given class.
 
 Here is a very simple example of this system created by CodeYourFuture
 
-[[https://cyf-course-checklist.netlify.app/]{.underline}](https://cyf-course-checklist.netlify.app/)
+[https://cyf-course-checklist.netlify.app/](https://cyf-course-checklist.netlify.app/)
 
 The success view on the curriculum aggregates learning objectives into a
 checklist.

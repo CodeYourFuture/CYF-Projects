@@ -5,10 +5,10 @@
 Using Chrome, if you try to access a website while offline you can play
 a game. Alternatively you can access the game by navigating to
 chrome://dino in the URL bar. More info can be found on
-[[Wikipedia]{.underline}](https://en.wikipedia.org/wiki/Dinosaur_Game).
+[Wikipedia](https://en.wikipedia.org/wiki/Dinosaur_Game).
 
-The game is a fun [[Easter
-Egg]{.underline}](<https://en.wikipedia.org/wiki/Easter_egg_(media)>) when
+The game is a fun [Easter
+Egg](<https://en.wikipedia.org/wiki/Easter_egg_(media)>) when
 the user might be frustrated at the lack of internet connection. It may
 be a fun thing to add to your apps in the future to add some light
 relief when a user might be frustrated.
@@ -52,4 +52,4 @@ keyboard.
 ## Things to consider
 
 When implementing the game, try looking at
-[[requestAnimationFrame]{.underline}](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame).
+[requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame).

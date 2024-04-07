@@ -26,7 +26,7 @@ Trainees clock into classes themselves. Attendance is logged to a class
 and a date (with start time), and this data is available as a public API
 from which the volunteers can pull the data they need. There is already
 a substantial amount of automated tracking by API for all the other
-[[milestones]{.underline}](https://docs.codeyourfuture.io/course-processes/running-the-course/assessment/milestones).
+[milestones](https://docs.codeyourfuture.io/course-processes/running-the-course/assessment/milestones).
 
 Volunteers can flag specific participation problems, and this
 information is also attached to the trainee object on the API.

@@ -9,7 +9,7 @@ But not everybody can learn or absorb from video teaching. Some people
 really need a transcript. (Others desperately need a summary. )
 
 How can trainees use
-[[Whisper]{.underline}](https://openai.com/blog/whisper/) to transcribe
+[Whisper](https://openai.com/blog/whisper/) to transcribe
 study sessions? How can they discover and browse those transcripts in an
 organised way? And could they even summarise those texts? How?! What is
 the simplest thing that could possibly work?
@@ -68,23 +68,23 @@ be needed.
 - **Video upload**
 
   - For teams with a Systems track developer, can you build A/V
-    upload and process with Whisper in the cloud? What [[open
-    source]{.underline}](https://github.com/mayeaux/generate-subtitles)
-    [[examples]{.underline}](https://github.com/ggerganov/whisper.cpp)
+    upload and process with Whisper in the cloud? What [open
+    source](https://github.com/mayeaux/generate-subtitles)
+    [examples](https://github.com/ggerganov/whisper.cpp)
     exist that you can use to help you?
 
 - **Lighthouse CI**
 
 > Can you integrate Lighthouse testing into your deployment workflow?
 > Who will define the Github action? How will you decide what
-> [[budget]{.underline}](https://web.dev/use-lighthouse-for-performance-budgets/)
+> [budget](https://web.dev/use-lighthouse-for-performance-budgets/)
 > to set?
 
 - **Summarise AI**
 
 > You've taught the community to transcribe using one AI model. Can you
-> teach them to use a summarise model? Which of the [[700+ public
-> models]{.underline}](https://huggingface.co/models?pipeline_tag=summarization&sort=downloads)
+> teach them to use a summarise model? Which of the [700+ public
+> models](https://huggingface.co/models?pipeline_tag=summarization&sort=downloads)
 > could you use? Teams with a PM, Product Owner, and Tech Lead should
 > workshop and roadmap this feature, even if you don't build it.
 

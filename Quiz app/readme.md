@@ -11,8 +11,8 @@ understand a student's position the more support we can provide.
 
 We've been experimenting with Kahoot! for this in London, running
 quizzes at the end of classes to figure out how people are getting along
-with the material. However, Kahoot! [[isn't
-free]{.underline}](https://kahoot.com/businesses/pricing), it
+with the material. However, Kahoot! [isn't
+free](https://kahoot.com/businesses/pricing), it
 prioritises being fast (which can put unhelpful pressure on students)
 and it would be nice to have a system that we could integrate more
 closely with the other tools we're using.
@@ -52,7 +52,7 @@ estimated difficulty, to give more insight into class progress?
   request/response pattern and polling, but to make the app more
   interactive (e.g. scores in real time) you'd have to look into
   something like
-  [[websockets]{.underline}](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+  [websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 - **Analysis**: initially you could just allow export of the data for
   import to Google Sheets for further analysis, but what if there were

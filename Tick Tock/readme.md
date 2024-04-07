@@ -29,7 +29,7 @@ What is the **simplest** thing that could possibly work?
 - A graph showing the amount of time each task has cumulatively taken
   over the whole week
 
-- See [[https://timeryapp.com/]{.underline}](https://timeryapp.com/)
+- See [https://timeryapp.com/](https://timeryapp.com/)
   for inspiration
 
 ## Users and roles
@@ -40,17 +40,17 @@ be used more efficiently
 
 ## Stretch goals
 
-- Use [[Toggl]{.underline}](https://toggl.com/) as a data store, see
-  [[API docs]{.underline}](https://developers.track.toggl.com/docs/)
+- Use [Toggl](https://toggl.com/) as a data store, see
+  [API docs](https://developers.track.toggl.com/docs/)
 
 ## Things to consider
 
 This is really just re-building Toggl. How could you put a spin on it?
-Can you find a way to report your data on your [[Coursework
-Planner?]{.underline}](https://github.com/CodeYourFuture/Coursework-Planner)
+Can you find a way to report your data on your [Coursework
+Planner?](https://github.com/CodeYourFuture/Coursework-Planner)
 What
-[[insights]{.underline}](https://github.com/orgs/CodeYourFuture/projects/126/insights)
-could you send to your [[project
-board?]{.underline}](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects)
+[insights](https://github.com/orgs/CodeYourFuture/projects/126/insights)
+could you send to your [project
+board?](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects)
 
 Remember, start with the minimum viable product and _then_ iterate.

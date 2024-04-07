@@ -9,11 +9,11 @@ and useful links too.
 
 Here are some examples of bookmark sites:
 
-- [[Jeremy Keith]{.underline}](https://adactio.com/links)
+- [Jeremy Keith](https://adactio.com/links)
 
-- [[Andy Baio]{.underline}](https://waxy.org/category/links/)
+- [Andy Baio](https://waxy.org/category/links/)
 
-- [[Ali Smith]{.underline}](https://bookmarks.alasdairsmith.co.uk/)
+- [Ali Smith](https://bookmarks.alasdairsmith.co.uk/)
 
 What is the **simplest** thing that could possibly work?
 

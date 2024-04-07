@@ -65,14 +65,14 @@ anaphylaxis.
 
 ## Existing Systems
 
-- Can you use the [[Google Maps Distance Matrix
-  API]{.underline}](https://developers.google.com/maps/documentation/distance-matrix/overview)
-  or the [[Distance
-  Matrix]{.underline}](https://distancematrix.ai/nonprofit) to
+- Can you use the [Google Maps Distance Matrix
+  API](https://developers.google.com/maps/documentation/distance-matrix/overview)
+  or the [Distance
+  Matrix](https://distancematrix.ai/nonprofit) to
   calculate the distance matrix?
 
 - What do you know about the
-  [[https://classplanner.codeyourfuture.io/]{.underline}](https://classplanner.codeyourfuture.io/)
+  [https://classplanner.codeyourfuture.io/](https://classplanner.codeyourfuture.io/)
 
 ## Stretch goals
 

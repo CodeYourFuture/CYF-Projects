@@ -60,7 +60,7 @@ platform at Manchester Victoria
 
 - **There is an incredible website called Recent Train Times; what can
   you learn from it?
-  [[https://www.recenttraintimes.co.uk/Home/About]{.underline}](https://www.recenttraintimes.co.uk/Home/About)**
+  [https://www.recenttraintimes.co.uk/Home/About](https://www.recenttraintimes.co.uk/Home/About)**
 
 - Can you use the Google Distance Matrix API to help you?
-  [[https://developers.google.com/maps/documentation/distance-matrix/overview]{.underline}](https://developers.google.com/maps/documentation/distance-matrix/overview)
+  [https://developers.google.com/maps/documentation/distance-matrix/overview](https://developers.google.com/maps/documentation/distance-matrix/overview)

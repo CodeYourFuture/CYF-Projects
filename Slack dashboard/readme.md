@@ -46,8 +46,8 @@ targets for number of messages and number or duration of calls.
 
 ## Likely challenges
 
-Building this application would require integration with the [[Slack
-API]{.underline}](https://api.slack.com/) pretty early on (you can build
+Building this application would require integration with the [Slack
+API](https://api.slack.com/) pretty early on (you can build
 some dashboards with canned data to prove out the UI, but we want this
 whole process to be as automated as possible). The data itself can be
 pretty boring, so how do you make it fun to use, could you try some kind

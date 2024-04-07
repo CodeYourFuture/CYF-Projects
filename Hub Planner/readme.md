@@ -84,7 +84,7 @@ several pathways and need to go into separate breakout rooms.
 
 A previous Final Project built the Class Planner, which volunteers use
 to plan classes.
-[[https://classplanner.codeyourfuture.io/]{.underline}](https://classplanner.codeyourfuture.io/)
+[https://classplanner.codeyourfuture.io/](https://classplanner.codeyourfuture.io/)
 
 How can the Hub Planner integrate with the Class Planner? Is it useful
 to do this? You might need to do some user research and talk to the

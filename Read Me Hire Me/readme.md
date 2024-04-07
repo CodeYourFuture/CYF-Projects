@@ -87,8 +87,8 @@ smallest slice of end to end functionality you can first?
 There are already multiple small apps and scripts in use at CYF that
 pull from various GitHub APIs. Can you use these to help you?
 
-Previously there was a project [[Team Project Graduate Platform
-\[RETIRED\]]{.underline}](https://docs.google.com/document/d/1gFrmuceVcXywf7oZoAdJW32InWo9iIH0hHhhS52LHUM/edit?usp=sharing)
+Previously there was a project [Team Project Graduate Platform
+\[RETIRED\]](https://docs.google.com/document/d/1gFrmuceVcXywf7oZoAdJW32InWo9iIH0hHhhS52LHUM/edit?usp=sharing)
 which several teams built, but we never integrated or updated. Make sure
 your solution is lightweight, easy to maintain, and **does not rely on
 manual input of data.**

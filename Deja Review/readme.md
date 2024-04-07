@@ -2,13 +2,13 @@
 
 ## Business problem
 
-At Code Your Future, we like to use a learning technique called [[spaced
-repetition]{.underline}](https://en.wikipedia.org/wiki/Spaced_repetition).
+At Code Your Future, we like to use a learning technique called [spaced
+repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 In fact it is set as prep work several
-[[times]{.underline}](https://curriculum.codeyourfuture.io/html-css/sprints/1/prep/#spaced-repetition)
-[[during]{.underline}](https://curriculum.codeyourfuture.io/html-css/sprints/2/prep/#spaced-repetition)
-[[the]{.underline}](https://curriculum.codeyourfuture.io/html-css/sprints/3/prep/#spaced-repetition)
-[[course]{.underline}](https://curriculum.codeyourfuture.io/html-css/sprints/4/prep/#spaced-repetition).
+[times](https://curriculum.codeyourfuture.io/html-css/sprints/1/prep/#spaced-repetition)
+[during](https://curriculum.codeyourfuture.io/html-css/sprints/2/prep/#spaced-repetition)
+[the](https://curriculum.codeyourfuture.io/html-css/sprints/3/prep/#spaced-repetition)
+[course](https://curriculum.codeyourfuture.io/html-css/sprints/4/prep/#spaced-repetition).
 The technique involves reviewing a topic over increasing time gaps (e.g.
 after one week, one month, three months, six months, one year).
 

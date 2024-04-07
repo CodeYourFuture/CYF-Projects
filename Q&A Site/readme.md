@@ -7,8 +7,8 @@ issues running their code - errors, unexpected outputs, or refusing to
 run entirely. The Technical Question Form (see the ⚡️ icon in e.g.
 #london-class6) has a good structure but asking questions like this in
 Slack is difficult for a number of reasons, e.g. it doesn't handle (and
-format) code very well and threads disappear quickly. [[Stack
-Overflow]{.underline}](https://stackoverflow.com/) has a very mature UI
+format) code very well and threads disappear quickly. [Stack
+Overflow](https://stackoverflow.com/) has a very mature UI
 for asking code-related questions, but asking there is a big step; it's
 not really designed for beginners and the comments don't provide enough
 space for a complex back-and-forth. We could bridge the gap with a Q&A

@@ -43,7 +43,7 @@ As a leader, I want to see what my team are working on
 - Integrating with Slack means understanding the Slackbot API. Look at
   existing standup bots to see how this works.
 
-> [[https://codeyourfuture.slack.com/apps/search?q=standup]{.underline}](https://codeyourfuture.slack.com/apps/search?q=standup)
+> [https://codeyourfuture.slack.com/apps/search?q=standup](https://codeyourfuture.slack.com/apps/search?q=standup)
 
 - How will you manage access to the goals?
 

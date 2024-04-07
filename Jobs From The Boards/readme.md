@@ -21,8 +21,8 @@ How can trainees **discover and apply for jobs** in an organised way?
   - How will you normalise the data into one standard job listing
     with the details a CYF grad cares about?
 
-  - What [[job
-    schema]{.underline}](https://developers.google.com/search/docs/appearance/structured-data/job-posting)
+  - What [job
+    schema](https://developers.google.com/search/docs/appearance/structured-data/job-posting)
     already exist?
 
 - A way to **produce** listings
@@ -62,7 +62,7 @@ together so we don't get too broken down by job hunting..
 - **Slack feed**
 
   - Should new listings post to Slack? Will you create a
-    [[webhook]{.underline}](https://api.slack.com/messaging/webhooks)?
+    [webhook](https://api.slack.com/messaging/webhooks)?
 
 - **Keyword scanning**
 
@@ -74,14 +74,14 @@ together so we don't get too broken down by job hunting..
 
 > Can you integrate Lighthouse testing into your deployment workflow?
 > Who will define the Github action? How will you decide what
-> [[budget]{.underline}](https://web.dev/use-lighthouse-for-performance-budgets/)
+> [budget](https://web.dev/use-lighthouse-for-performance-budgets/)
 > to set?
 
 ### Things to consider:
 
-There are enterprise solutions to this problem, like [[Google Cloud
+There are enterprise solutions to this problem, like [Google Cloud
 Talent
-Solution]{.underline}](https://cloud.google.com/solutions/talent-solution).
+Solution](https://cloud.google.com/solutions/talent-solution).
 What are the advantages and disadvantages to building your own?
 
 There are many paid job aggregation APIs, but there are also some free
@@ -90,12 +90,12 @@ scraping?
 
 Some free Job Board APIs
 
-- [[Arbeitnow]{.underline}](https://documenter.getpostman.com/view/18545278/UVJbJdKh)
+- [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh)
 
-- [[https://devitjobs.uk/job_feed.xml]{.underline}](https://devitjobs.uk/job_feed.xml)
+- [https://devitjobs.uk/job_feed.xml](https://devitjobs.uk/job_feed.xml)
 
-- [[https://developer.indeed.com/]{.underline}](https://developer.indeed.com/)
+- [https://developer.indeed.com/](https://developer.indeed.com/)
 
-- [[https://github.com/jobapis/jobs-authenticjobs]{.underline}](https://github.com/jobapis/jobs-authenticjobs)
+- [https://github.com/jobapis/jobs-authenticjobs](https://github.com/jobapis/jobs-authenticjobs)
 
-- [[https://github.com/public-apis/public-apis?source=post_page\-\-\-\--86a4ff3a2742\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--#jobs]{.underline}](https://github.com/public-apis/public-apis?source=post_page-----86a4ff3a2742--------------------------------#jobs)
+- [https://github.com/public-apis/public-apis?source=post_page\-\-\-\--86a4ff3a2742\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--#jobs](https://github.com/public-apis/public-apis?source=post_page-----86a4ff3a2742--------------------------------#jobs)

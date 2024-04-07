@@ -61,7 +61,7 @@ guidance to aspiring contractors within the CYF community.
 - **Slack feed**
 
   - Should new listings post to Slack? Will you create a
-    [[webhook]{.underline}](https://api.slack.com/messaging/webhooks)?
+    [webhook](https://api.slack.com/messaging/webhooks)?
 
 - **Keyword highlighting and filtering**
 
@@ -72,31 +72,31 @@ guidance to aspiring contractors within the CYF community.
 
 > Can you integrate Lighthouse testing into your deployment workflow?
 > Who will define the Github action? How will you decide what
-> [[budget]{.underline}](https://web.dev/use-lighthouse-for-performance-budgets/)
+> [budget](https://web.dev/use-lighthouse-for-performance-budgets/)
 > to set?
 
 ### Things to consider:
 
 There are enterprise solutions to this problem. What are the advantages
-and disadvantages to building your own? There are also many [[Open
+and disadvantages to building your own? There are also many [Open
 Source tendering
-platforms]{.underline}](https://github.com/shashirajraja/Tender-Management-System).
+platforms](https://github.com/shashirajraja/Tender-Management-System).
 What can you learn from them?
 
-How can the [[Contracts Finder
-Service]{.underline}](https://www.contractsfinder.service.gov.uk/Search/Results)
-and [[Find Tender
-Service]{.underline}](https://www.find-tender.service.gov.uk/Search)
-help you? Can you make use of their [[FOSS
-API]{.underline}](https://www.find-tender.service.gov.uk/Developer/Documentation)?
+How can the [Contracts Finder
+Service](https://www.contractsfinder.service.gov.uk/Search/Results)
+and [Find Tender
+Service](https://www.find-tender.service.gov.uk/Search)
+help you? Can you make use of their [FOSS
+API](https://www.find-tender.service.gov.uk/Developer/Documentation)?
 (Also see
-[[V2]{.underline}](https://www.contractsfinder.service.gov.uk/apidocumentation/V2))
+[V2](https://www.contractsfinder.service.gov.uk/apidocumentation/V2))
 
 How can the Change Board help you?
-[[https://github.com/CodeYourFuture/Changes]{.underline}](https://github.com/CodeYourFuture/Changes)
+[https://github.com/CodeYourFuture/Changes](https://github.com/CodeYourFuture/Changes)
 
 CYF would really like to adopt this project, if a build can meet our
-needs. Consider the [[Technology Code Of
-Practice]{.underline}](https://www.gov.uk/guidance/the-technology-code-of-practice)
+needs. Consider the [Technology Code Of
+Practice](https://www.gov.uk/guidance/the-technology-code-of-practice)
 to help you understand how to get your project up to a production
 standard. We want the simplest version we can possibly use.

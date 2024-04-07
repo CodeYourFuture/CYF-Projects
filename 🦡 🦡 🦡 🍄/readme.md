@@ -5,7 +5,7 @@ Badger Badger (DevOps)
 At Code Your Future we have a bunch of great Open Source products, but
 they\'re not all in the greatest shape they could be. To really shine,
 our FOSS repos should meet the highest standards of
-[[https://www.bestpractices.dev]{.underline}](https://www.bestpractices.dev)\
+[https://www.bestpractices.dev](https://www.bestpractices.dev)\
 \
 But to do this, we need a team of developers to **understand** the
 criteria, **plan** the changes, **drive** the adoption, and **support**
@@ -19,7 +19,7 @@ or grads doing a specialisation track.
 At least one CYF FOSS project should meet the requirements for a passing
 level Badge\
 \
-[[https://www.bestpractices.dev/en/criteria/0]{.underline}](https://www.bestpractices.dev/en/criteria/0)
+[https://www.bestpractices.dev/en/criteria/0](https://www.bestpractices.dev/en/criteria/0)
 
 ## Users and roles
 

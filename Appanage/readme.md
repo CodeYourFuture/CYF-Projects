@@ -5,10 +5,10 @@ Appanage
 At Code Your Future, we build loads and loads of team projects. We
 invent products, build apps and solve problems together. We use many
 products built by CYFers: the
-[[Dashboard]{.underline}](https://dashboard.codeyourfuture.io/),
-[[Classplanner]{.underline}](https://classplanner.codeyourfuture.io/),
-the [[Curricula]{.underline}](https://curriculum.codeyourfuture.io/),
-[[Signposts]{.underline}](https://signposts.codeyourfuture.io/),
+[Dashboard](https://dashboard.codeyourfuture.io/),
+[Classplanner](https://classplanner.codeyourfuture.io/),
+the [Curricula](https://curriculum.codeyourfuture.io/),
+[Signposts](https://signposts.codeyourfuture.io/),
 Rainbird, and many more were all built in-house and some as \"final\"
 projects.
 
@@ -32,7 +32,7 @@ and adopt** products CYF needs?
 
 - A way to **produce** listings of available products
 
-  - What [[schema]{.underline}](https://schema.org/) will you use or
+  - What [schema](https://schema.org/) will you use or
     define to describe available repositories?
 
   - What information do CYFers need to understand how to adopt a
@@ -74,7 +74,7 @@ trying to organise it all
 - **Slack feed**
 
   - Should new products be posted to Slack? Will you create a
-    [[webhook]{.underline}](https://api.slack.com/messaging/webhooks)?
+    [webhook](https://api.slack.com/messaging/webhooks)?
 
 - **Product space similarity vector**
 
@@ -90,10 +90,10 @@ Understanding this gap will help you build something that can bridge it.
 Is it desirable for _every_ product to be adopted? Why or why not?
 
 How can the Change Board help you?
-[[https://github.com/CodeYourFuture/Changes]{.underline}](https://github.com/CodeYourFuture/Changes)
+[https://github.com/CodeYourFuture/Changes](https://github.com/CodeYourFuture/Changes)
 
 #### Useful links
 
-> [[https://docs.codeyourfuture.io/trainees/cyf-products]{.underline}](https://docs.codeyourfuture.io/trainees/cyf-products)
+> [https://docs.codeyourfuture.io/trainees/cyf-products](https://docs.codeyourfuture.io/trainees/cyf-products)
 >
-> [[https://www.gov.uk/guidance/the-technology-code-of-practice]{.underline}](https://www.gov.uk/guidance/the-technology-code-of-practice)
+> [https://www.gov.uk/guidance/the-technology-code-of-practice](https://www.gov.uk/guidance/the-technology-code-of-practice)

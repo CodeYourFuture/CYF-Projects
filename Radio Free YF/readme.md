@@ -73,8 +73,8 @@ detailed user stories would be a good idea)
 ## Things to consider:
 
 There is another Spotify API project, which may be approachable if
-you\'re on a short deadline: [[Team Project: Spotify Playlist
-Filterer]{.underline}](https://docs.google.com/document/d/1YZx7MJ7HuozMh2sjEGn2vdIhtmRF1sSrl_bRU4mi5AU/edit?usp=sharing)
+you\'re on a short deadline: [Team Project: Spotify Playlist
+Filterer](https://docs.google.com/document/d/1YZx7MJ7HuozMh2sjEGn2vdIhtmRF1sSrl_bRU4mi5AU/edit?usp=sharing)
 
 There is a cyf music channel. Can you recruit user testers from this
 group? What other things would they like from this application?

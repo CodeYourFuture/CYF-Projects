@@ -80,31 +80,31 @@ Don\'t get overcomplicated. Start with a single data point comparison
 between two data sources. Use existing products to help you. Identify
 and build the missing piece for _this_ use case.
 
-💹[[RAWGraphs]{.underline}](https://www.rawgraphs.io/)
+💹[RAWGraphs](https://www.rawgraphs.io/)
 
-📌 CYF Data feed is pinned in general : [[CYF DATA Feed
-\[LIVE\]]{.underline}](https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing)
+📌 CYF Data feed is pinned in general : [CYF DATA Feed
+\[LIVE\]](https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing)
 
 **Common datasets we compare against:**
 
-- [[https://www.nomisweb.co.uk/datasets/asher]{.underline}](https://www.nomisweb.co.uk/datasets/asher)
+- [https://www.nomisweb.co.uk/datasets/asher](https://www.nomisweb.co.uk/datasets/asher)
 
-- [[https://imd-by-postcode.opendatacommunities.org/imd/2019]{.underline}](https://imd-by-postcode.opendatacommunities.org/imd/2019)
+- [https://imd-by-postcode.opendatacommunities.org/imd/2019](https://imd-by-postcode.opendatacommunities.org/imd/2019)
 
-- [[https://ifs.org.uk/tools_and_resources/where_do_you_fit_in]{.underline}](https://ifs.org.uk/tools_and_resources/where_do_you_fit_in)
+- [https://ifs.org.uk/tools_and_resources/where_do_you_fit_in](https://ifs.org.uk/tools_and_resources/where_do_you_fit_in)
 
-- [[https://stats.oecd.org/Index.aspx?DataSetCode=HSL]{.underline}](https://stats.oecd.org/Index.aspx?DataSetCode=HSL)
+- [https://stats.oecd.org/Index.aspx?DataSetCode=HSL](https://stats.oecd.org/Index.aspx?DataSetCode=HSL)
 
 **Here are some examples of CYF use of trainee data**
 
-- Anonymised and aggregated reporting, which you can see here[[CYF
-DATA Feed
-\[LIVE\]]{.underline}](https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing)
+- Anonymised and aggregated reporting, which you can see here[CYF
+  DATA Feed
+  \[LIVE\]](https://docs.google.com/spreadsheets/d/1SFNpbbFVXE1Lusm5MI7lc51r09_2ecpyFNvKUuAkkFU/edit?usp=sharing)
 
-- Here\'s an example of slides we show to partners:[[CYF corporate
-volunteering
-\[LIVE\]]{.underline}](https://docs.google.com/presentation/d/1RBBOWAGlKFuhM9MiKJngfgF_mMNR4KjWNsSmNL1QBuo/edit?usp=sharing)
+- Here\'s an example of slides we show to partners:[CYF corporate
+  volunteering
+  \[LIVE\]](https://docs.google.com/presentation/d/1RBBOWAGlKFuhM9MiKJngfgF_mMNR4KjWNsSmNL1QBuo/edit?usp=sharing)
 
-- Here\'s an example of a report prepared for Ofsted[[Self Assessment
-Report (SAR) 26-1-23
-\[PUBLIC\]]{.underline}](https://docs.google.com/document/d/1EbEmYkgjeDIvaKKhDeJBMwtlSwwNiY19u6xwvw_9r7M/edit?usp=sharing)
+- Here\'s an example of a report prepared for Ofsted[Self Assessment
+  Report (SAR) 26-1-23
+  \[PUBLIC\]](https://docs.google.com/document/d/1EbEmYkgjeDIvaKKhDeJBMwtlSwwNiY19u6xwvw_9r7M/edit?usp=sharing)

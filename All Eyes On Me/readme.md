@@ -62,7 +62,7 @@ work_.**
 ## Things to consider
 
 Here are all the repos trainees open PRs to
-[[https://github.com/CodeYourFuture/Table-of-Contents]{.underline}](https://github.com/CodeYourFuture/Table-of-Contents)
+[https://github.com/CodeYourFuture/Table-of-Contents](https://github.com/CodeYourFuture/Table-of-Contents)
 
 There are existing tests running on some repos at CYF. Can your solution
 work with those tests? Make sure you don\'t disable existing, working

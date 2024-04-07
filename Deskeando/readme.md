@@ -38,7 +38,7 @@ displayed by a React front end.
 
 There are developed personas for this project:
 
-[[https://www.figma.com/file/4bit1t0X7VZB7XFCysGIhV/CYF-Project-Team-7?node-id=0%3A1]{.underline}](https://www.figma.com/file/4bit1t0X7VZB7XFCysGIhV/CYF-Project-Team-7?node-id=0%3A1)
+[https://www.figma.com/file/4bit1t0X7VZB7XFCysGIhV/CYF-Project-Team-7?node-id=0%3A1](https://www.figma.com/file/4bit1t0X7VZB7XFCysGIhV/CYF-Project-Team-7?node-id=0%3A1)
 
 Please develop your user stories based on these.
 

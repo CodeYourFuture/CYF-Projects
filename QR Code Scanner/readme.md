@@ -2,7 +2,7 @@
 
 ## Business problem
 
-[[QR codes]{.underline}](https://en.wikipedia.org/wiki/QR_code) are a
+[QR codes](https://en.wikipedia.org/wiki/QR_code) are a
 common sight nowadays, as they can easily integrate the physical world
 (such as museums, cafes, restaurants) with the digital world.
 
@@ -17,8 +17,8 @@ What is the **simplest** thing that could possibly work?
 - Allow users to take a photo of a QR code and add it to an image
   element on the application
 
-- Use the [[BarcodeDetector
-  API]{.underline}](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
+- Use the [BarcodeDetector
+  API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
   to scan the QR code
 
 - Display the information contained within the QR code
@@ -35,12 +35,12 @@ exhibit.
 
 ## Things to consider
 
-A QR code generator like [[this
-one]{.underline}](https://new.express.adobe.com/tools/generate-qr-code)
+A QR code generator like [this
+one](https://new.express.adobe.com/tools/generate-qr-code)
 may be useful for testing.
 
-Unfortunately, the BarcodeDetection API does not have [[very good
+Unfortunately, the BarcodeDetection API does not have [very good
 browser
-support]{.underline}](https://caniuse.com/mdn-api_barcodedetector) yet,
+support](https://caniuse.com/mdn-api_barcodedetector) yet,
 as it is only fully supported by Chrome on Android. You may want to
 consider showing a warning message to the user if it is not supported.

@@ -23,8 +23,8 @@ way?
   - How will you normalise the data into one standard event listing
     with the details a CYFer cares about?
 
-  - What [[event
-    schema]{.underline}](https://developers.google.com/calendar/api/v3/reference/events/list)
+  - What [event
+    schema](https://developers.google.com/calendar/api/v3/reference/events/list)
     already exist?
 
 - A way to **produce** listings
@@ -63,7 +63,7 @@ of exhaustion trying to organise it all
 - **Slack feed**
 
   - Should new events post to Slack? Will you create a
-    [[webhook]{.underline}](https://api.slack.com/messaging/webhooks)?
+    [webhook](https://api.slack.com/messaging/webhooks)?
 
 - **Filtering events**
 
@@ -97,16 +97,16 @@ person to advise you on your development?
 
 Useful links
 
-- [[https://hackathons.hackclub.com/data]{.underline}](https://hackathons.hackclub.com/data)
+- [https://hackathons.hackclub.com/data](https://hackathons.hackclub.com/data)
 
-- [[https://mlh.io/seasons/2024/events]{.underline}](https://mlh.io/seasons/2024/events)
+- [https://mlh.io/seasons/2024/events](https://mlh.io/seasons/2024/events)
 
-- [[https://hacktoberfest.com/]{.underline}](https://hacktoberfest.com/)
+- [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
-- [[https://findingada.com/worldwide-events/]{.underline}](https://findingada.com/worldwide-events/)
+- [https://findingada.com/worldwide-events/](https://findingada.com/worldwide-events/)
 
-- [[https://24pullrequests.com/]{.underline}](https://24pullrequests.com/)
+- [https://24pullrequests.com/](https://24pullrequests.com/)
 
-- [[https://adventofcode.com/2022/events]{.underline}](https://adventofcode.com/2022/events)
+- [https://adventofcode.com/2022/events](https://adventofcode.com/2022/events)
 
-- [[https://allevents.in/manchester/it]{.underline}](https://allevents.in/manchester/it)
+- [https://allevents.in/manchester/it](https://allevents.in/manchester/it)

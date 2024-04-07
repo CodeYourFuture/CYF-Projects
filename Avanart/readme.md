@@ -8,7 +8,7 @@ avatar, so we can recognise each other in all these different contexts.
 
 But not everybody can share a picture of themselves online in our
 community, so many people use
-[[Robohash]{.underline}](https://robohash.org/) to generate a unique
+[Robohash](https://robohash.org/) to generate a unique
 robot avatar from their name.
 
 We want our own CYF-flavoured robohash!
@@ -18,7 +18,7 @@ We want our own CYF-flavoured robohash!
 - A way to **generate** avatars
 
   - Robohash is open source
-    [[https://github.com/e1ven/Robohash]{.underline}](https://github.com/e1ven/Robohash)
+    [https://github.com/e1ven/Robohash](https://github.com/e1ven/Robohash)
 
 - A way to **search** avatars?
 
@@ -51,20 +51,20 @@ be needed.
     Manchester are bees, Leeds are owls, Liverpool are liver birds
     (cormorants), and Sheffield are smiths (Thor and Vulcan). Can
     you find a way to create regional avatars that incorporate these
-    symbols? Can [[Boring
-    Avatars]{.underline}](https://boringavatars.com/) help you?
+    symbols? Can [Boring
+    Avatars](https://boringavatars.com/) help you?
 
 - **Lighthouse CI**
 
 > Can you integrate Lighthouse testing into your deployment workflow?
 > Who will define the Github action? How will you decide what
-> [[budget]{.underline}](https://web.dev/use-lighthouse-for-performance-budgets/)
+> [budget](https://web.dev/use-lighthouse-for-performance-budgets/)
 > to set?
 
 - **Gravatar Integration**
 
   - Can you design a user flow to
-    [[https://en.gravatar.com/]{.underline}](https://en.gravatar.com/)
+    [https://en.gravatar.com/](https://en.gravatar.com/)
     to share the avatar on many services at once?
 
 **Important Note to Developers:** This project could be highly

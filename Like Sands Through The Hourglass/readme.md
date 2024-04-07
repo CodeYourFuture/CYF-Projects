@@ -59,13 +59,13 @@ annual salary of the other. Is this a problem? How will you tackle this?
 Can CYF provide a blended employee cost per second default value that is
 used instead in this scenario?
 
-[[http://www.expensivemeeting.com/]{.underline}](http://www.expensivemeeting.com/)
+[http://www.expensivemeeting.com/](http://www.expensivemeeting.com/)
 is a longstanding website that does a basic version of this idea. What
 can you learn from it?
 
-Agencies and contractors [[must calculate their
-costs]{.underline}](https://theagencyworks.co.uk/insights/how-to-accurately-calculate-an-employees-cost-rate-aka-profitable-cost-per-hour/#:~:text=Take%20each%20employee's%20gross%20salary,you%20their%20total%20salary%20cost.)
+Agencies and contractors [must calculate their
+costs](https://theagencyworks.co.uk/insights/how-to-accurately-calculate-an-employees-cost-rate-aka-profitable-cost-per-hour/#:~:text=Take%20each%20employee's%20gross%20salary,you%20their%20total%20salary%20cost.)
 in this way to understand how much to bid for work. What can you learn
 from applications like
-[[Synergist]{.underline}](https://www.synergist.co.uk/synergist-is-for/finance-managers),
+[Synergist](https://www.synergist.co.uk/synergist-is-for/finance-managers),
 and what is \"overkill\" for your product?
