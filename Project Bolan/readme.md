@@ -8,8 +8,7 @@ chrome://dino in the URL bar. More info can be found on
 [Wikipedia](https://en.wikipedia.org/wiki/Dinosaur_Game).
 
 The game is a fun Easter Egg when the user might be frustrated at the lack of internet connection. It may
-be a fun thing to add to your apps in the future to add some light
-relief.
+be a fun thing to add to your apps in the future to add some light relief.
 
 What is the **simplest** thing that could possibly work?
 
