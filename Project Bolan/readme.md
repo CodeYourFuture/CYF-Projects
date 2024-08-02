@@ -7,11 +7,9 @@ a game. Alternatively you can access the game by navigating to
 chrome://dino in the URL bar. More info can be found on
 [Wikipedia](https://en.wikipedia.org/wiki/Dinosaur_Game).
 
-The game is a fun [Easter
-Egg](<https://en.wikipedia.org/wiki/Easter_egg_(media)>) when
-the user might be frustrated at the lack of internet connection. It may
+The game is a fun Easter Egg when the user might be frustrated at the lack of internet connection. It may
 be a fun thing to add to your apps in the future to add some light
-relief when a user might be frustrated.
+relief.
 
 What is the **simplest** thing that could possibly work?
 
