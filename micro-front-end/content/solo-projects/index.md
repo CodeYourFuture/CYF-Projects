@@ -13,6 +13,10 @@ time=60
 name="Codewars API"
 src="https://github.com/CodeYourFuture/Project-Codewars-API/readme"
 [[blocks]]
+name="CYF Election"
+src="https://github.com/CodeYourFuture/Project-cyf-election/readme/"
+time="360"
+[[blocks]]
 time=30
 name="First Timers"
 src="https://github.com/CodeYourFuture/Project-First-Timers/readme"
@@ -33,7 +37,15 @@ time=240
 name="P5 Minimal"
 src="https://github.com/CodeYourFuture/Project-p5js-minimal/readme"
 [[blocks]]
+time=90
+name="Record a Goose"
+src="https://github.com/CodeYourFuture/Project-Record-A-Goose/readme"
+[[blocks]]
 time=340
 name="SASS in React"
 src="https://github.com/CodeYourFuture/Project-Sass-In-React/readme"
+[[blocks]]
+name="Skills Review Pull Requests"
+src="https://github.com/CodeYourFuture/Project-skills-review-pull-request/readme"
+time=30
 +++
