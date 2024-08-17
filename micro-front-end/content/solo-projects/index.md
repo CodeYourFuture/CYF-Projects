@@ -5,6 +5,10 @@ layout='prep'
 menu=["syllabus", "projects"]
 weight=1
 [[blocks]]
+name="1000 Paper Cranes"
+src="https://github.com/CodeYourFuture/Project-1000-Paper-Cranes/readme"
+time=360
+[[blocks]]
 time=45
 name="CLI Treasure Hunt"
 src="https://github.com/CodeYourFuture/Project-CLI-Treasure-Hunt/readme"
