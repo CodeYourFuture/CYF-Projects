@@ -5,6 +5,10 @@ layout='prep'
 weight=2
 menu=["syllabus", "projects"]
 [[blocks]]
+time=0
+name="CYF Group Projects, 2018 Webdev"
+src="https://github.com/CodeYourFuture/CYF-Group-Projects/readme"
+[[blocks]]
 time=360
 name="Code Review Group"
 src="https://github.com/CodeYourFuture/Project-Code-Review-Group/readme"
