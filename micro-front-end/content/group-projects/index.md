@@ -26,6 +26,6 @@ name="Record a Goose"
 src="https://github.com/CodeYourFuture/Project-Record-A-Goose/readme"
 [[blocks]]
 time=540
-name="Web Developer Requirement"
+name="Web Developer Requirements"
 src="https://github.com/CodeYourFuture/Project-Web-Developer-Requirements/readme"
 +++

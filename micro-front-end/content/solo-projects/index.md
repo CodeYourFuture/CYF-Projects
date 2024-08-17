@@ -33,6 +33,10 @@ name="JS Slideshow"
 src="https://github.com/CodeYourFuture/Project-js-slideshow/readme"
 time=120
 [[blocks]]
+name="Lab React Components"
+src="https://github.com/CodeYourFuture/Project-lab-react-training"
+time=360
+[[blocks]]
 name="Mailing List REST API"
 src="https://github.com/CodeYourFuture/Project-Mailing-List-REST/readme"
 time=120
@@ -44,6 +48,9 @@ src="https://github.com/CodeYourFuture/Project-p5js-minimal/readme"
 time=90
 name="Record a Goose"
 src="https://github.com/CodeYourFuture/Project-Record-A-Goose/readme"
+[[blocks]]
+name="Resolve Merge Conflicts"
+src="https://github.com/skills/resolve-merge-conflicts/readme"
 [[blocks]]
 time=340
 name="SASS in React"
