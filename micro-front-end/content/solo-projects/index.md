@@ -7,5 +7,5 @@ weight=1
 [[blocks]]
 time=60
 name="Github Activity"
-src="https://github.com/CodeYourFuture/Project-GitHub-Activity"
+src="https://github.com/CodeYourFuture/Project-GitHub-Activity/readme"
 +++

@@ -7,5 +7,5 @@ menu=["syllabus", "projects"]
 [[blocks]]
 time=360
 name="Rainy Playtime"
-src="https://github.com/CodeYourFuture/Project-RainyPlaytime"
+src="https://github.com/CodeYourFuture/Project-RainyPlaytime/readme"
 +++
