@@ -25,6 +25,10 @@ time=30
 name="First Timers"
 src="https://github.com/CodeYourFuture/Project-First-Timers/readme"
 [[blocks]]
+name="Gilded Rose Kata"
+src="https://github.com/CodeYourFuture/gilded-rose-kata/readme"
+time=300
+[[blocks]]
 time=60
 name="Github Activity"
 src="https://github.com/CodeYourFuture/Project-GitHub-Activity/readme"
