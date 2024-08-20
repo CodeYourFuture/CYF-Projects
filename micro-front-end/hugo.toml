@@ -1,6 +1,9 @@
 title = "CYF Projects"
 baseURL = "https://projects.codeyourfuture.io/"
 
+[params]
+our_name="CYF"
+
 [module]
   [[module.imports]]
     path = "github.com/CodeYourFuture/curriculum/org-cyf-theme" 
