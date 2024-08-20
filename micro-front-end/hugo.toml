@@ -7,5 +7,3 @@ our_name="CYF"
 [module]
   [[module.imports]]
     path = "github.com/CodeYourFuture/curriculum/org-cyf-theme" 
-
-theme = "common-theme"
