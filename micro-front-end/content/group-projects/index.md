@@ -25,6 +25,10 @@ time=90
 name="Record a Goose"
 src="https://github.com/CodeYourFuture/Project-Record-A-Goose/readme"
 [[blocks]]
+name="Terminal Tic Tac Toe"
+src="https://github.com/CodeYourFuture/Project-terminal-tic-tac-toe/readme"
+time=180
+[[blocks]]
 time=540
 name="Web Developer Requirements"
 src="https://github.com/CodeYourFuture/Project-Web-Developer-Requirements/readme"
