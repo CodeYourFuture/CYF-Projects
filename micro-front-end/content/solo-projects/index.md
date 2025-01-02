@@ -9,6 +9,10 @@ name="1000 Paper Cranes"
 src="https://github.com/CodeYourFuture/Project-1000-Paper-Cranes/readme"
 time=360
 [[blocks]]
+time=360
+name="Chat Server"
+src="https://github.com/CodeYourFuture/Project-chat-server-v2/readme"
+[[blocks]]
 time=45
 name="CLI Treasure Hunt"
 src="https://github.com/CodeYourFuture/Project-CLI-Treasure-Hunt/readme"
@@ -63,4 +67,8 @@ src="https://github.com/CodeYourFuture/Project-Sass-In-React/readme"
 name="Skills Review Pull Requests"
 src="https://github.com/CodeYourFuture/Project-skills-review-pull-request/readme"
 time=30
+[[blocks]]
+name="Three Kata Websites"
+src="https://github.com/CodeYourFuture/Project-three-kata-websites/readme"
+time=540
 +++
