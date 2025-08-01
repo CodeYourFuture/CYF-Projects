@@ -34,6 +34,10 @@ name="Clarissa Explains It All_"
 src="https://github.com/CodeYourFuture/CYF-Projects/readme/Clarissa%20Explains%20It%20All_"
 [[blocks]]
 time=0
+name="CV Matching Game"
+src="https://github.com/CodeYourFuture/CYF-Projects/readme/CV-Matching-Game"
+[[blocks]]
+time=0
 name="Deja Review"
 src="https://github.com/CodeYourFuture/CYF-Projects/readme/Deja%20Review"
 [[blocks]]
