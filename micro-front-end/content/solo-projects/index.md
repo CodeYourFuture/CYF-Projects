@@ -9,10 +9,6 @@ name="1000 Paper Cranes"
 src="https://github.com/CodeYourFuture/Project-1000-Paper-Cranes/readme"
 time=360
 [[blocks]]
-time=360
-name="Chat Server"
-src="https://github.com/CodeYourFuture/Project-chat-server-v2/readme"
-[[blocks]]
 time=45
 name="CLI Treasure Hunt"
 src="https://github.com/CodeYourFuture/Project-CLI-Treasure-Hunt/readme"

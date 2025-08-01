@@ -1,5 +1,5 @@
 module github.com/CodeYourFuture/CYF-Projects/micro-front-end
 
-go 1.21.3
+go 1.24.5
 
-require github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240404150408-303505d03061 // indirect
+require github.com/CodeYourFuture/curriculum/org-cyf-theme v0.0.0-20250801141632-a0faa90fa68a // indirect
