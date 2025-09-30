@@ -110,6 +110,10 @@ name="Love Me Tender"
 src="https://github.com/CodeYourFuture/CYF-Projects/readme/Love%20Me%20Tender"
 [[blocks]]
 time=0
+name="Pair Scheduling"
+src="https://github.com/CodeYourFuture/CYF-Projects/readme/Pair-Scheduling?ref=add-pair-scheduling"
+[[blocks]]
+time=0
 name="Project Bolan"
 src="https://github.com/CodeYourFuture/CYF-Projects/readme/Project%20Bolan"
 [[blocks]]
