@@ -2,10 +2,7 @@ Logistical Lunch
 
 ## Business problem
 
-At CodeYourFuture, we are used to meeting on Zoom for every occasion, as
-we are living through a global pandemic.
-
-But now we need to adapt to meeting together in person every weekend. We
+At CodeYourFuture, we meet in person every Saturday. We
 need to figure out our travel arrangements and, most importantly, what
 we will do for lunch!
 
@@ -30,7 +27,7 @@ Phase 2:
 Create an interface to gather and display the answers to, at least,
 these questions:
 
-1.  How many people will need lunch today?
+1.  We know how many people have come to the last sessions. Can we estimate how many people will need lunch next Saturday?
 
 2.  Who is in charge of making lunch today?
 
@@ -83,12 +80,12 @@ anaphylaxis.
 
 - **Lunch assistant**
 
-> As a lunch maker, I'd like suggested recipes from a database of
+> As a lunch maker, I'd like to suggest recipes from a database of
 > successful class lunches.
 >
 > As a lunch shopper, I'd like a suggested shopping list.
 >
-> As an organiser, I'd like for the lunch maker and shopper to be
+> As an organiser, I'd like the lunch maker and shopper to be
 > selected on a rota.
 
 - **Afternoon break**
