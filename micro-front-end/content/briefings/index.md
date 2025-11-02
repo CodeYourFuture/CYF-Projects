@@ -111,7 +111,7 @@ src="https://github.com/CodeYourFuture/CYF-Projects/readme/Love%20Me%20Tender"
 [[blocks]]
 time=0
 name="Pair Scheduling"
-src="https://github.com/CodeYourFuture/CYF-Projects/readme/Pair-Scheduling?ref=add-pair-scheduling"
+src="https://github.com/CodeYourFuture/CYF-Projects/readme/Pair-Scheduling"
 [[blocks]]
 time=0
 name="Project Bolan"
@@ -152,6 +152,10 @@ src="https://github.com/CodeYourFuture/CYF-Projects/readme/Scout%20Activity%20Sc
 time=0
 name="Shared Bookmarks"
 src="https://github.com/CodeYourFuture/CYF-Projects/readme/Shared%20Bookmarks"
+[[blocks]]
+time=0
+name="Slack Onboarding"
+src="https://github.com/CodeYourFuture/CYF-Projects/readme/Slack-Onboarding?ref=add-slack-onboarding"
 [[blocks]]
 time=0
 name="Slack dashboard"
