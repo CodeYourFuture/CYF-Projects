@@ -155,7 +155,7 @@ src="https://github.com/CodeYourFuture/CYF-Projects/readme/Shared%20Bookmarks"
 [[blocks]]
 time=0
 name="Slack Onboarding"
-src="https://github.com/CodeYourFuture/CYF-Projects/readme/Slack-Onboarding?ref=add-slack-onboarding"
+src="https://github.com/CodeYourFuture/CYF-Projects/readme/Slack-Onboarding"
 [[blocks]]
 time=0
 name="Slack dashboard"
