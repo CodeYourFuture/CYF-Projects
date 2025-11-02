@@ -8,7 +8,9 @@ We want a Slack App which can help direct people to the right channels.
 
 ### Requirements
 
-As will all projects, it should work, be accessible, have enough testing, and be deployed. We want to use this in class, so it needs to be easy for CodeYourFuture volunteers to keep deployed, maintain, and maybe even improve.
+As will all projects, it should work, be accessible, have enough testing, and be deployed. We want to use this at CodeYourFuture for real, so it needs to be easy for CodeYourFuture volunteers to keep deployed, maintain, and maybe even improve.
+
+Ideally any backend would be implemented in TypeScript or Python with MyPy types, and any UI would be implemented in TypeScript + React (or natively in Slack). Any database should use a SQL-based system such as PostgreSQL or Amazon RDS.
 
 As a volunteer, when I first join Slack, I should get prompted for some information. There should also be a way to trigger this prompt some time after joining (e.g. if I move region).
 
